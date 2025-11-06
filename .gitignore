@@ -1,0 +1,187 @@
+﻿# ============================================
+# SECURITY & SENSITIVE DATA
+# ============================================
+# API Keys and Secrets
+*.env
+.env.*
+secrets.json
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+api_keys.dart
+config.dart
+
+# Private keys
+*.key
+*.pem
+*.p12
+*.keystore
+*.jks
+key.properties
+
+# Certificates
+*.cer
+*.crt
+
+# ============================================
+# MISCELLANEOUS
+# ============================================
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+.fvm/
+*.lock
+
+# ============================================
+# IDE & EDITOR
+# ============================================
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+*.hprof
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+DerivedData/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# ============================================
+# FLUTTER / DART / PUB
+# ============================================
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+lib/generated/
+.packages
+pubspec.lock
+
+# Web
+/web/icons/
+/web/favicon.png
+/web/manifest.json
+
+# ============================================
+# NATIVE BUILDS
+# ============================================
+# Android
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+/android/.gradle/
+/android/captures/
+/android/local.properties
+/android/gradlew
+/android/gradlew.bat
+/android/gradle/wrapper/gradle-wrapper.jar
+*.apk
+*.aab
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Runner.xcworkspace
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Windows
+/windows/flutter/ephemeral/
+/windows/runner/Debug/
+/windows/runner/Release/
+*.msix
+
+# Linux
+/linux/flutter/ephemeral/
+
+# macOS
+/macos/Flutter/ephemeral/
+/macos/Pods/
+
+# ============================================
+# SYMBOLICATION & OBFUSCATION
+# ============================================
+app.*.symbols
+app.*.map.json
+*.obfuscate.json
+
+# ============================================
+# TESTING & COVERAGE
+# ============================================
+/test/
+/integration_test/
+.test_coverage.dart
+coverage/
+*.coverage
+
+# ============================================
+# DEPLOYMENT & CI/CD
+# ============================================
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/README.md
+
+# Firebase
+firebase-debug.log
+firebase-debug.*.log
+.firebase/
+
+# ============================================
+# BACKUP & TEMPORARY
+# ============================================
+*.bak
+*.backup
+*.tmp
+*.temp
+*.old
+*~
+.#*
+
+# ============================================
+# PERSONAL / CUSTOM
+# ============================================
+# Your personal notes or drafts
+NOTES.md
+TODO.md
+drafts/
+personal/
+
+# Large media files (if any)
+*.mp4
+*.mov
+*.avi
+*.mkv
