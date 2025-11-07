@@ -7,7 +7,7 @@ Switch between a card/grid and list view, browse categories, and enjoy a polishe
 
 ---
 
-## ✨ Features
+##  Features
 
 - Clean, modern desktop & mobile layout
 - **Flexible grid/list switch:** Instantly toggle between a 7-column grid and easy-to-read list
@@ -20,7 +20,7 @@ Switch between a card/grid and list view, browse categories, and enjoy a polishe
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 **Requirements:**
 - Flutter 3.0 or above
@@ -34,7 +34,7 @@ git clone https://github.com/Sadikn7i/novella-app.git
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Card Grid | Category Bar | Book List | Detail View | ... |
 |-----------|--------------|-----------|-------------|-----|
@@ -42,14 +42,14 @@ git clone https://github.com/Sadikn7i/novella-app.git
 
 ---
 
-## 🛡 Security & Privacy
+##  Security & Privacy
 
 - API keys, secrets, and personal credentials are **never included** (see `.gitignore`)
 - **All sensitive & build files** are protected from public exposure
 
 ---
 
-## 🙋‍♂️ Creator & Contact
+##  Creator & Contact
 
 **Sadik Aden Dirir**
 
@@ -61,13 +61,13 @@ git clone https://github.com/Sadikn7i/novella-app.git
 
 ---
 
-## ⭐️ Contributions
+##  Contributions
 
 Open for feedback and friendly PRs!
 
 ---
 
-## 📄 License
+##  License
 
 MIT — _please see [LICENSE](LICENSE) for details_
 
