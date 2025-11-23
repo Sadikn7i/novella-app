@@ -1,4 +1,4 @@
-
+# Novella
 
 **Novella** is a modern, beautiful eBook marketplace and reader app built with Flutter.  
 Switch between a card/grid and list view, browse categories, and enjoy a polished, responsive UI.
